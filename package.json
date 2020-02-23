@@ -1,0 +1,6 @@
+{
+  "name": "nodejs-sockets",
+  "version": "0.1.0",
+  "description": "Socket API practice",
+  "main": "server/index.js"
+}          
